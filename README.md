@@ -1,5 +1,6 @@
 # CarTech-Rekomendasi-Pekerjaan-
 Cartech adalah singkatan dari 'Career Talk Technology',  Projek ini bertemakan pekerjaan yang berfokus pada pembahasan tentang interview pekerjaan dengan menggunakan Natural Language Processing sehingga bisa membuat sebuah Chatbot bernama Interbot yang ada pada layanan Cartech
+![caterbot pekerjaan](https://user-images.githubusercontent.com/86903939/208434629-3b5a4caa-e881-4122-9f9d-8d972fbd3a64.png)
 
 # Requirements
 Flask==2.0.0
@@ -7,6 +8,7 @@ nltk==3.7
 numpy==1.23.1
 tensorflow==2.9.1
 scikit-learn==1.1.1
+
 
 # VsCode SetUp
 1. Clone the repository-> cd into the cloned repository folder
